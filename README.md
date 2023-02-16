@@ -1,7 +1,7 @@
 # Is synthetic data from generative models ready for image recognition?
 
 <p align="center">
-    <a href="https://arxiv.org/abs/2210.07574"><img src="https://img.shields.io/badge/arXiv-2205.15288-b31b1b"></a>
+    <a href="https://arxiv.org/abs/2210.07574"><img src="https://img.shields.io/badge/arXiv-2210.07574-b31b1b"></a>
   <a href="https://github.com/CVMI-Lab/SyntheticData/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"></a>
 </p>
 <p align="center">
